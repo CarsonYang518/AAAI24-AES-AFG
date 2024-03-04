@@ -2,7 +2,7 @@
 These are the implemented codes our paper **Unveiling the Tapestry of Automated Essay Scoring: A Comprehensive Investigation of Accuracy, Fairness, and Generalizability** ([Full Paper Here](https://arxiv.org/abs/2401.05655)), which has been accepted as a full paper on AAAI 2024.  
 
 # Dataset
-The dataset we used can be access [Here](https://github.com/scrosseye/persuade_corpus_2.0).  
+The dataset we used can be access [here](https://github.com/scrosseye/persuade_corpus_2.0).  
 
 # Description
 <kbd>feature_generation.ipynb</kbd> contains functions for generating hand-crafted features.  

@@ -29,12 +29,16 @@ Note: For **RankSVM** (also the first step in **TDNN**), please refer to the imp
 # Reference
 If you use our code in a publication, we would appreciate citations:
 ```
-@article{yang2024unveiling,
-      title={Unveiling the Tapestry of Automated Essay Scoring: A Comprehensive Investigation of Accuracy, Fairness, and Generalizability}, 
-      author={Yang, Kaixun and Raković, Mladen and Li, Yuyang and Guan, Quanlong and Gašević, Dragan and Chen, Guanliang},
-      journal={Proceedings of the 38th AAAI Conference on Artificial Intelligence},
-      year={2024}
+@inproceedings{yang2024unveiling,
+  title={Unveiling the Tapestry of Automated Essay Scoring: A Comprehensive Investigation of Accuracy, Fairness, and Generalizability},
+  author={Yang, Kaixun and Rakovi{\'c}, Mladen and Li, Yuyang and Guan, Quanlong and Ga{\v{s}}evi{\'c}, Dragan and Chen, Guangliang},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={20},
+  pages={22466--22474},
+  year={2024}
 }
+
 ```
 
 

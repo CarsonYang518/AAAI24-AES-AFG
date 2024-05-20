@@ -17,7 +17,7 @@ The dataset we used can be access [here](https://github.com/scrosseye/persuade_c
 Note: For **RankSVM** (also the first step in **TDNN**), please refer to the implementation [here](https://www.cs.cornell.edu/people/tj/svm_light/svm_rank.html). 
 
 # Version
-- Python 3.8
+- Python 3.11
 - PyTorch 2.1.0
 - TensorFlow 2.15.0
 - scikit-learn 1.4.1
